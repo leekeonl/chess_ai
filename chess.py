@@ -898,7 +898,7 @@ flipDisabled_pic = pygame.transform.scale(flipDisabled_pic, (square_width*4,squa
 
 
 screen = pygame.display.set_mode(size_of_bg)
-pygame.display.set_caption('Shallow Green')
+pygame.display.set_caption('Chess ')
 screen.blit(background,(0,0))
 
 
