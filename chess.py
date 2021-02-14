@@ -466,8 +466,6 @@ def poskey(position):
 
 
 
-
-
 #GUI Functions that shows visual for user interface
 def chess_coord_to_pixels(chess_coord):
     x,y = chess_coord
